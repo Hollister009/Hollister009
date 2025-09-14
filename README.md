@@ -2,8 +2,8 @@
 
 📍 **Location:** Lviv, Ukraine  
 💻 **GitHub:** [github.com/Hollister009](https://github.com/Hollister009)  
-📧 **Contact:** [Get in touch](mailto:reactive.andrew@yahoo.com.ua)
-🔗 **LinkedIn:** [linkedin.com/in/andriy-zhukevych](https://www.linkedin.com/in/andriy-zhukevych/)
+📧 **Contact:** [Get in touch](mailto:reactive.andrew@yahoo.com.ua)  
+🔗 **LinkedIn:** [linkedin.com/in/andriy-zhukevych](https://www.linkedin.com/in/andriy-zhukevych/)  
 
 Passionate Software Engineer with a strong foundation in modern web technologies and a growing interest in DevOps practices.
 Experienced in building scalable applications with TypeScript, React, and Node.js while exploring infrastructure automation and containerization.
